@@ -171,8 +171,3 @@ Click Count Updated
 
 ---
 
-## Author
-
-**Vanshita**
-
-GitHub: https://github.com/VanShiTa-09
